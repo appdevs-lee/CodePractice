@@ -1,0 +1,6 @@
+framework module Pods_CodePractice {
+  umbrella header "Pods-CodePractice-umbrella.h"
+
+  export *
+  module * { export * }
+}
